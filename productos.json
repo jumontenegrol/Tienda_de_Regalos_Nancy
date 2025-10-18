@@ -1,10 +1,30 @@
 [
+  
   {
-    "id": 1,
+    "id": 10,
     "nombre": "Pulsera artesanal",
     "precio": 25000,
     "descripcion": "Pulsera tejida a mano con hilo encerado.",
-    "imagen": "imageness/fondo_naruto.jpg"
+    "descripcion_larga": "Esta pulsera está hecha con materiales resistentes y colores vibrantes. Perfecta para regalos o uso diario. Disponible en diferentes combinaciones de color.",
+    "imagenes": [
+      "imageness/fondo_naruto.jpg",
+      "imageness/fondo_naruto.jpg",
+      "imagenes/fondo_naruto_3.jpg"
+    ]
+  },
+  {
+    "id": 1,
+    "nombre": "Pulsera artesanal1",
+    "precio": 25000,
+    "descripcion": "Pulsera tejida a mano con hilo encerado.",
+    "descripcion_larga": "Esta pulsera está hecha con materiales resistentes y colores vibrantes. Perfecta para regalos o uso diario. Disponible en diferentes combinaciones de color.",
+    "imagen":"imageness/fondo_naruto.jpg",
+    "imagenes": [
+      "imageness/fondo_naruto.jpg",
+      "imageness/fondo_naruto.jpg",
+      "imagenes/fondo_naruto_3.jpg"
+    ]
+    
   },
   {
     "id": 2,
