@@ -47,5 +47,12 @@
     "precio": 30000,
     "descripcion": "Hecho con piedras de colores vibrantes.",
     "imagen": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 8,
+    "nombre": "Collar de ",
+    "precio": 30000, 
+    "descripcion": "Hecho con piedras de colores vibrantes.",
+    "imagen": "https://via.placeholder.com/150"
   }
 ]
