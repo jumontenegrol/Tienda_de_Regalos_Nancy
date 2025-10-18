@@ -4,7 +4,7 @@
     "nombre": "Pulsera artesanal",
     "precio": 25000,
     "descripcion": "Pulsera tejida a mano con hilo encerado.",
-    "imagen": "https://via.placeholder.com/150"
+    "imagen": "imagenes/fondo_naruto.jpg"
   },
   {
     "id": 2,
