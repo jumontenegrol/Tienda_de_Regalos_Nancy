@@ -1,72 +1,116 @@
 [
   
   {
-    "id": 10,
-    "nombre": "Pulsera artesanal",
-    "precio": 25000,
-    "descripcion": "Pulsera tejida a mano con hilo encerado.",
-    "descripcion_larga": "Esta pulsera está hecha con materiales resistentes y colores vibrantes. Perfecta para regalos o uso diario. Disponible en diferentes combinaciones de color.",
+    "id": 1,
+    "nombre": "Agenda Artesanal Van Gogh",
+    "precio": "30.000",
+    "descripcion": "Agenda con hojas estampadas y diseño inspirado en Van Gogh.",
+    "descripcion_larga": "Agenda con diseño inspirado en Van Gogh, con hojas estampadas y portada en pasta dura. Si se desea personalizar con el nombre del cliente o con un texto corto no tiene ningun precio adicional (comunicarlo en el chat de whatsapp para mas información).",
+    "imagen":"Imagenes/Agenda Artesanal Van Gogh/Agenda Artesanal Van Gogh.png",
     "imagenes": [
-      "imageness/fondo_naruto.jpg",
-      "imageness/fondo_naruto.jpg",
-      "imagenes/fondo_naruto_3.jpg"
+      "Imagenes/Agenda Artesanal Van Gogh/Agenda Artesanal Van Gogh.png",
+      "Imagenes/Agenda Artesanal Van Gogh/Agenda Artesanal Van Gogh2.png",
+      "Imagenes/Agenda Artesanal Van Gogh/Agenda Artesanal Van Gogh3.png"
     ]
   },
   {
-    "id": 1,
-    "nombre": "Pulsera artesanal1",
-    "precio": 25000,
-    "descripcion": "Pulsera tejida a mano con hilo encerado.",
-    "descripcion_larga": "Esta pulsera está hecha con materiales resistentes y colores vibrantes. Perfecta para regalos o uso diario. Disponible en diferentes combinaciones de color.",
-    "imagen":"imageness/fondo_naruto.jpg",
+    "id": 2,
+    "nombre": "Agena en Cuerina Harry Potter",
+    "precio": "28.000",
+    "descripcion": "Agenda inpirada en Harry Potter, con hojas lisas y portada en cuerina.",
+    "descripcion_larga": "Agenda con diseño inspirado en Harry Potter, con hojas lisas y portada en cuerina. Cualquier duda comunicarse al chat de Whatsapp.",
+    "imagen":"Imagenes/Agenda en cuerina Harry potter/Agenda Cuerina Harry Potter 1.jpg",
     "imagenes": [
-      "imageness/fondo_naruto.jpg",
-      "imageness/fondo_naruto.jpg",
-      "imagenes/fondo_naruto_3.jpg"
+      "Imagenes/Agenda en cuerina Harry potter/Agenda Cuerina Harry Potter 1.jpg",
+      "Imagenes/Agenda en cuerina Harry potter/Agenda Cuerina Harry Potter 2.jpg",
+      "Imagenes/Agenda en cuerina Harry potter/Agenda Cuerina Harry Potter 3.jpg"
     ]
     
   },
   {
-    "id": 2,
-    "nombre": "Collar de piedras naturales",
-    "precio": 30000,
-    "descripcion": "Hecho con piedras de colores vibrantes.",
-    "imagen": "https://via.placeholder.com/150"
+    "id": 3,
+    "nombre": "Agenda de Capybara con Broche",
+    "precio": "16.000",
+    "descripcion": "Agenda de pasta dura con diseño de capybara y broche de cierre.",
+    "descripcion_larga": "Agenda con diseño inspirado en Capybara, con hojas cuadriculadas y portada en pasta dura. Cualquier duda comunicarse al chat de Whatsapp.",
+    "imagen": "Imagenes/Agenda capybara Broche/Agenda capybara broche 1.jpg",
+    "imagenes": [
+      "Imagenes/Agenda capybara Broche/Agenda capybara broche 1.jpg",
+      "Imagenes/Agenda capybara Broche/Agenda capybara broche 2.jpg",
+      "Imagenes/Agenda capybara Broche/Agenda capybara broche 3.jpg"
+    ]
   }, 
   {
-    "id": 3,
-    "nombre": "Agenda personalizada",
-    "precio": 30000,
-    "descripcion": "Hecho con piedras de colores vibrantes.",
-    "imagen": "https://via.placeholder.com/150"
-  },
-  {
     "id": 4,
-    "nombre": "C",
-    "precio": 30000,
-    "descripcion": "Hecho con piedras de colores vibrantes.",
-    "imagen": "https://via.placeholder.com/150"
+    "nombre": "Agenda con Hoja estampada de diferentes diseños",
+    "precio": "30.000",
+    "descripcion": "Agenda de pasta dura con diferentes diseños.",
+    "descripcion_larga": "Agenda con diseño inspirados en peliculas y cuadros famosos; cuenta con portada en pasta dura y sus hojas son estampadas con diseños inspirados en la portada. Cualquier duda comunicarse al chat de Whatsapp.",
+    "imagen": "Imagenes/Agenda Hoja estampada/Agenda Hoja Estampada 5.png",
+    "imagenes": [
+      "Imagenes/Agenda Hoja estampada/Agenda Hoja Estampada 1.png",
+      "Imagenes/Agenda Hoja estampada/Agenda Hoja Estampada 2.png",
+      "Imagenes/Agenda Hoja estampada/Agenda Hoja Estampada 3.png",
+      "Imagenes/Agenda Hoja estampada/Agenda Hoja Estampada 4.png",
+      "Imagenes/Agenda Hoja estampada/Agenda Hoja Estampada 5.png",
+      "Imagenes/Agenda Hoja estampada/Agenda Hoja Estampada 6.png",
+      "Imagenes/Agenda Hoja estampada/Agenda Hoja Estampada 7.png",
+      "Imagenes/Agenda Hoja estampada/Agenda Hoja Estampada 8.png",
+      "Imagenes/Agenda Hoja estampada/Agenda Hoja Estampada 9.png",
+      "Imagenes/Agenda Hoja estampada/Agenda Hoja Estampada 10.png"
+    ]
   },
   {
     "id": 5,
-    "nombre": "Co",
-    "precio": 30000,
-    "descripcion": "Hecho con piedras de colores vibrantes.",
-    "imagen": "https://via.placeholder.com/150"
+    "nombre": "Agenda con Hoja Negra",
+    "precio": "30.000",
+    "descripcion": "Agenda con Hoja Negra y Broche de Estrella.",
+    "descripcion_larga": "Agenda con hojas negras y broche en forma de estrella; cuenta con portada en pasta dura y sus hojas son totalmente negras. Se obsequia un esfero blanco. Si se desea personalizar con el nombre del cliente o con un texto corto no tiene ningun precio adicional (comunicarlo en el chat de whatsapp para mas información).",
+    "imagen": "Imagenes/Agenda Hoja negra con broche estrella/Agenda Hoja negra con broche dorado.jpg",
+    "imagenes": [
+      "Imagenes/Agenda Hoja negra con broche estrella/Agenda Hoja negra con broche dorado.jpg",
+      "Imagenes/Agenda Hoja negra con broche estrella/Agenda Hoja negra con broche dorado 2.jpg",
+      "Imagenes/Agenda Hoja negra con broche estrella/Agenda Hoja negra con broche dorado 3.jpg"
+    ]
   },
   {
     "id": 6,
-    "nombre": "Coll",
-    "precio": 30000,
-    "descripcion": "Hecho con piedras de colores vibrantes.",
-    "imagen": "https://via.placeholder.com/150"
+    "nombre": "Agenda Irises Monet",
+    "precio": "30.000",
+    "descripcion": "Agenda con Hoja Negra y Broche de Estrella.",
+    "descripcion_larga": "Agenda con un diseño espectacular, de color morado, pasta dura y hojas estampadas. Si se desea personalizar con el nombre del cliente o con un texto corto no tiene ningun precio adicional (comunicarlo en el chat de whatsapp para mas información).",
+    "imagen": "Imagenes/Agenda Iriset monet/Agenda Irises Monet.png",
+    "imagenes": [
+      "Imagenes/Agenda Iriset monet/Agenda Irises Monet.png",
+      "Imagenes/Agenda Iriset monet/Agenda Irises Monet2.png",
+      "Imagenes/Agenda Iriset monet/Agenda Irises Monet3.png"
+    ]
   },
   {
     "id": 7,
-    "nombre": "Collar",
-    "precio": 30000,
-    "descripcion": "Hecho con piedras de colores vibrantes.",
-    "imagen": "https://via.placeholder.com/150"
+    "nombre": "Agenda Marco de Van Gogh",
+    "precio": "30.000",
+    "descripcion": "Agenda diseño Van Gogh con Marco.",
+    "descripcion_larga": "Agenda con un diseño de Van Gogh, pasta dura con un bello marco. Sus Hojas son estampadas con un diseño tambien de Van Gogh. Si se desea personalizar con el nombre del cliente o con un texto corto no tiene ningun precio adicional (comunicarlo en el chat de whatsapp para mas información).",
+    "imagen": "Imagenes/Agenda Marco de Vangoh/Agenda Marco de vangoh.png",
+    "imagenes": [
+      "Imagenes/Agenda Marco de Vangoh/Agenda Marco de vangoh.png",
+      "Imagenes/Agenda Marco de Vangoh/Agenda Marco de vangoh2.png",
+      "Imagenes/Agenda Marco de Vangoh/Agenda Marco de vangoh3.png"
+    ]
+  },
+  {
+    "id": 8,
+    "nombre": "Agenda Permanente Bussisness",
+    "precio": "20.000",
+    "descripcion": "Agenda Formal con bolsillo interior.",
+    "descripcion_larga": "Agenda con un diseño formal, ideal para clientes dedicados al mundo de los negocios. Sus hojas son lancas/lisas.",
+    "imagen": "Imagenes/Agenda Permanente Bussisnes/Agenda permanente Bussisnes 1.jpg",
+    "imagenes": [
+      "Imagenes/Agenda Permanente Bussisnes/Agenda permanente Bussisnes 1.jpg",
+      "Imagenes/Agenda Permanente Bussisnes/Agenda permanente Bussisnes 2.jpg",
+      "Imagenes/Agenda Permanente Bussisnes/Agenda permanente Bussisnes 3.jpg"  
+    ]
   },
   {
     "id": 8,

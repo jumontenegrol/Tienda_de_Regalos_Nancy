@@ -15,8 +15,19 @@ fetch('productos.json')
 
     // Crear la galería de imágenes
     const galeria = producto.imagenes
-      .map(img => `<img src="${img}" class="w-1/3 object-cover rounded-lg shadow-md hover:scale-105 transition-transform duration-200">`)
+      .map(img => `<img src="${img}" class="w-1/3 object-cover rounded-lg shadow-md hover:scale-105 transition-transform duration-200 cursor-pointer">`)
       .join('');
+
+    // Configurar el modal
+    const modal = document.getElementById('modalImagen');
+    const imagenAmpliada = document.getElementById('imagenAmpliada');
+
+    // Cerrar el modal al hacer click fuera de la imagen
+    modal.addEventListener('click', (e) => {
+      if (e.target === modal) {
+        modal.classList.add('hidden');
+      }
+    });
 
     contenedor.innerHTML = `
       <div class="bg-white shadow-lg rounded-xl p-6">
@@ -31,4 +42,13 @@ fetch('productos.json')
         </a>
       </div>
     `;
+
+    // Agregar event listeners a las imágenes
+    const imagenes = contenedor.querySelectorAll('img');
+    imagenes.forEach(img => {
+      img.addEventListener('click', () => {
+        imagenAmpliada.src = img.src;
+        modal.classList.remove('hidden');
+      });
+    });
   });

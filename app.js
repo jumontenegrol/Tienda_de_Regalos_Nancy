@@ -13,7 +13,7 @@ fetch('productos.json')
                onerror="this.onerror=null;this.src='https://via.placeholder.com/400x300?text=Imagen+no+disponible'">
           <div class="p-4">
             <h3 class="text-center font-semibold text-orange-500 font-body">${p.nombre}</h3>
-            <p class="text-sm text-gray-600 mb-2">${p.descripcion}</p>
+            <p class="text-center text-gray-600 mb-2">${p.descripcion}</p>
             <p class="text-center font-bold text-gray-800 mb-3">$${p.precio}</p>
             <a href="https://wa.me/573005554942?text=Hola!%20Estoy%20interesado%20en%20el%20producto%20${encodeURIComponent(p.nombre)}"
               target="_blank"

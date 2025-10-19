@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Detalle del Producto</title>
-  <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.tailwindcss.com"></script>
   <link href="https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap" rel="stylesheet">
   <style>
   .font-alfa {
@@ -22,13 +22,17 @@
 <body class="bg-pink-50 font-sans text-gray-800">
   <header class="bg-yellow-400 text-white text-center py-4 shadow-md">
     <h1 class="text-2xl font-alfa">Detalles del producto</h1>
+    <p class="text-lg">Recuerda preguntar por la personalización de tu porducto....La mayoria de nuestros productos se pueden personalizar ¡Sin ningún costo adicional!</p>
   </header>
+
+  <a href="index.html" class="fixed top-4 left-4 bg-yellow-400 hover:bg-yellow-500 text-white p-3 rounded-full shadow-lg transition-colors duration-200">
+    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18" />
+    </svg>
+  </a>
 
   <main class="max-w-4xl mx-auto text-center p-6" id="producto"></main>
 
-  <footer class="bg-yellow-400 text-center py-4 mt-10 text-sm">
-    <a href="index.html" class="text-black-700 font-semibold hover:underline">Volver a la tienda</a>
-  </footer>
   <footer class="bg-yellow-400 text-white text-center py-6 mt-10">
   <h2 class="text-xl font-semibold mb-2">Dónde encontrarnos</h2>
   <p class="mb-2">Carrera 45 #26-85, Bogotá, Colombia</p>
@@ -38,6 +42,9 @@
      Ver en Google Maps
   </a>
     </footer>
+  <div id="modalImagen" class="hidden fixed inset-0 bg-black bg-opacity-80 flex items-center justify-center z-50">
+    <img id="imagenAmpliada" src="" alt="Imagen ampliada" class="max-w-[90%] max-h-[90%] rounded-lg shadow-lg">
+  </div>
 
   <script src="producto.js"></script>
 </body>
