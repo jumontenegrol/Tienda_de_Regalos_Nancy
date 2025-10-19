@@ -18,7 +18,7 @@ fetch('productos.json')
             <a href="https://wa.me/573005554942?text=Hola!%20Estoy%20interesado%20en%20el%20producto%20${encodeURIComponent(p.nombre)}"
               target="_blank"
               class="block bg-yellow-400 text-white text-center py-2 rounded-md hover:bg-yellow-200">
-              Comprar por WhatsApp
+              Comprar
             </a>
           </div>
         </div>

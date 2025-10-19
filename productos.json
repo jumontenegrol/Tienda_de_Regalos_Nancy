@@ -113,10 +113,122 @@
     ]
   },
   {
-    "id": 8,
-    "nombre": "Collar de ",
-    "precio": 30000, 
-    "descripcion": "Hecho con piedras de colores vibrantes.",
-    "imagen": "https://via.placeholder.com/150"
+    "id": 9,
+    "nombre": "Calculadora Degrade",
+    "precio": "20.000",
+    "descripcion": "Calculadora de 10 x 10 con diseño degrade.",
+    "descripcion_larga": "Calculadora de 10 x 10 con diseño degrade, ideal para estudiantes y profesionales. Funciona con energía solar y cuenta con funciones básicas de suma, resta, multiplicación y división.",
+    "imagen": "Imagenes/Calculadora Degrade/Calculadora Degrade1.jpg",
+    "imagenes": [
+      "Imagenes/Calculadora Degrade/Calculadora Degrade1.jpg",
+      "Imagenes/Calculadora Degrade/Calculadora Degrade2.jpg",
+      "Imagenes/Calculadora Degrade/Calculadora Degrade3.jpg" 
+    ]
+  },
+  {
+    "id": 10,
+    "nombre": "Cartuchera con Cremallera Gruesa",
+    "precio": "10.000",
+    "descripcion": "Espectacular cartuchera con cremallera gruesa y diseño moderno.",
+    "descripcion_larga": "Cartuchera espaciosa con cremallera gruesa, ideal para guardar cosmeticos. Su diseño moderno y colores vibrantes la hacen perfecta para cualquier ocasión.",
+    "imagen": "Imagenes/Cartuchera Creamllera Gruesa/Cartuchera Cremallera gruesa.jpg",
+    "imagenes": [
+      "Imagenes/Cartuchera Creamllera Gruesa/Cartuchera Cremallera gruesa.jpg",
+      "Imagenes/Cartuchera Creamllera Gruesa/Cartuchera Cremallera gruesa2.jpg",
+      "Imagenes/Cartuchera Creamllera Gruesa/Cartuchera Cremallera gruesa3.jpg"
+    ]
+  },
+  {
+    "id": 11,
+    "nombre": "Esfero 3036",
+    "precio": "6.000",
+    "descripcion": "Esfero referencia 3036 de tinta negra.",
+    "descripcion_larga": "Esfero de tinta negra, referencia 3036, con un diseño ergonómico para una escritura cómoda y fluida. Ideal para uso diario en la escuela, oficina o en casa. Totalmente personalisable sin costo adicional.",
+    "imagen": "Imagenes/Esfero 3036 personalizado/Esfero 3036 personalizado.jpg",
+    "imagenes": [
+      "Imagenes/Esfero 3036 personalizado/Esfero 3036 personalizado.jpg"
+    ]
+  },
+  {
+    "id": 12,
+    "nombre": "Esfero Gatos",
+    "precio": "3.500",
+    "descripcion": "Esfero borrable con diseño de gatos. Tinta negra.",
+    "descripcion_larga": "Esfero Borrable con diseño de gatos, tinta negra, ideal para estudiantes y amantes de los gatos. Su tinta especial permite borrar errores fácilmente, haciendo que la escritura sea más divertida y libre de preocupaciones.",
+    "imagen": "Imagenes/Esfero Borrable Gatos/Esfero Borrable gatos.jpg",
+    "imagenes": [
+       "Imagenes/Esfero Borrable Gatos/Esfero Borrable gatos.jpg" 
+    ]
+  },
+  {
+    "id": 13,
+    "nombre": "Esfero Diamantes",
+    "precio": "4.000",
+    "descripcion": "Esfero con decoración superior en forma de diamante. Tinta negra.",
+    "descripcion_larga": "Esfero Con decoracion superior en forma de diamante, tinta negra, ideal para quienes buscan un toque de elegancia en su escritura diaria. Perfecto para uso en la oficina, escuela o como regalo especial.",
+    "imagen": "Imagenes/Esfero diamantes piedritas/Esfero diamantes piedritas.jpg",
+    "imagenes": [
+     "Imagenes/Esfero diamantes piedritas/Esfero diamantes piedritas.jpg" 
+    ]
+  },
+  {
+    "id": 14,
+    "nombre": "Esfero Van Gogh",
+    "precio": "4.000",
+    "descripcion": "Esfero con diseño de Van Gogh. Tinta negra.",
+    "descripcion_larga": "Esfero con diseño de van Gogh, tinta negra, ideal para amantes del arte y la escritura. Su diseño único inspirado en las obras de Van Gogh lo convierte en una herramienta de escritura elegante y distintiva.",
+    "imagen": "Imagenes/Esfero van Gogh/Esfero van Gogh.jpg",
+    "imagenes": [
+      "Imagenes/Esfero van Gogh/Esfero van Gogh.jpg" 
+    ]
+  },
+  {
+    "id": 15,
+    "nombre": "Kit Agenda Principito",
+    "precio": "30.000",
+    "descripcion": "Kit de agenda con diseño del Principito. Para personalizar a gusto.",
+    "descripcion_larga": "Agenda con diseño inspirado en el principito, con todo un kit de accesorios para personalizar a gusto. Incluye stickers, separadores y más. Ideal para amantes de la literatura y la escritura creativa.",
+    "imagen": "Imagenes/Kit agenda Principito/Kit agenda principito 1.png",
+    "imagenes": [
+      "Imagenes/Kit agenda Principito/Kit agenda principito 1.png",
+      "Imagenes/Kit agenda Principito/Kit agenda principito 2.png",
+      "Imagenes/Kit agenda Principito/Kit agenda principito 3.png",
+      "Imagenes/Kit agenda Principito/Kit agenda principito 4.png",
+      "Imagenes/Kit agenda Principito/Kit agenda principito 5.png"
+    ]
+  },
+  {
+    "id": 16,
+    "nombre": "Marca Páginas Metalico",
+    "precio": "10.000",
+    "descripcion": "Marca Páginas metálico con forma de pluma.",
+    "descripcion_larga": "marca páginas metálico con forma de pluma, ideal para lectores ávidos y amantes de los libros. Su diseño elegante y duradero lo convierte en un accesorio imprescindible para cualquier biblioteca personal.",
+    "imagen": "Imagenes/marca paginas pluma metalico/Marca paginas pluma metalico.jpg",
+    "imagenes": [
+      "Imagenes/marca paginas pluma metalico/Marca paginas pluma metalico.jpg" 
+    ]
+  },
+  {
+    "id": 17,
+    "nombre": "Resaltador de Gato",
+    "precio": "4.000",
+    "descripcion": "Resaltador por un lado, esfero por el otro con diseño de gato.",
+    "descripcion_larga": "Resaltador fluorecente por un lado y esfero de tinta negra por el otro, con diseño de gato. Ideal para estudiantes y profesionales que buscan una herramienta versátil y divertida para sus tareas diarias.",
+    "imagen": "Imagenes/Resaltador con esfero gatos/Resaltador con esfero Gatos.jpg",
+    "imagenes": [
+      "Imagenes/Resaltador con esfero gatos/Resaltador con esfero Gatos.jpg" 
+    ]
+  },
+  {
+    "id": 18,
+    "nombre": "Torre Mug Tintero",
+    "precio": "25.000",
+    "descripcion": "Torre de posillos tintero con diseño de Tom y Jerry.",
+    "descripcion_larga": "Set de 4 cuatro pocillos tinteros, con diseño de Tom y Jerry. Ideal para organizar y dar un estilo diferente a los articulos de cocina en tu hogar.",
+    "imagen": "Imagenes/Torre Mug Tintero Tom y Jerry/Torre Mug Tintero Tom y Jerry.jpg",
+    "imagenes": [
+      "Imagenes/Torre Mug Tintero Tom y Jerry/Torre Mug Tintero Tom y Jerry.jpg" 
+    ]
   }
+
 ]
